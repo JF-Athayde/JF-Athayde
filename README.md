@@ -19,4 +19,4 @@
 - 🤖 Interessado em Inteligência Artificial
 - 🌱 Atualmente estudando desenvolvimento web
 - 🔬 Pesquisando algoritmos de *Behavioral Cloning*
-- 📫 Contato: @athayde.fellipe n
+- 📫 Contato: @athayde.fellipe
